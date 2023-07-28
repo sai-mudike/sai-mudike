@@ -15,7 +15,7 @@
 
 💬 Let's Connect! 💬
 I'm always looking forward to meeting fellow programmers, sharing ideas, and collaborating on exciting projects. Feel free to reach out and let's create some magic together! 🤗
-You can find me on (LinkedIn)[https://www.linkedin.com/in/sainitin-mudike-78a2aa271/].
+You can find me on [LinkedIn](https://www.linkedin.com/in/sainitin-mudike-78a2aa271/) .
 
 
 📊 @sai-mudike 's GitHub Stats 📊
