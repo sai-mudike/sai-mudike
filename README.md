@@ -17,13 +17,14 @@
 I'm always looking forward to meeting fellow programmers, sharing ideas, and collaborating on exciting projects. Feel free to reach out and let's create some magic together! 🤗
 You can find me on (LinkedIn)[https://www.linkedin.com/in/sainitin-mudike-78a2aa271/].
 
+
 📊 @sai-mudike 's GitHub Stats 📊
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-mudike&show_icons=true&theme=radical)
 
-📈 @sai-mudike 's Top Languages 📈
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-mudike&layout=compact&theme=radical)
 
 🔥 @sai-mudike 's GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai-mudike&theme=radical)
+
+
 
 🚀 Happy coding! 🚀
