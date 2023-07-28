@@ -20,4 +20,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/sainitin-mudike-78a2aa
 
 🚀 Happy coding! 🚀
 
-<div style="padding-top:56.000%;position:relative;"><iframe src="https://gifer.com/embed/EN2Q" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+![Coding_gif](https://i.gifer.com/EN2Q.gif)
